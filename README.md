@@ -1,5 +1,4 @@
 # lampbottomnavigation
-Flutter Package
 Steps to Integrate : 
 1. Create a flutter project.
 
